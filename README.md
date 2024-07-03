@@ -5,6 +5,7 @@ The [Global Coral Reef Monitoring Network](https://gcrmn.net/) (GCRMN)​ is an 
 ### :chart_with_downwards_trend: Data integration repositories
 
 * Benthic cover synthetic dataset ([gcrmndb_benthos](https://github.com/GCRMN/gcrmndb_benthos))
+* Fish abundance and biomass synthetic dataset (gcrmndb_fish)
 
 ### :notebook_with_decorative_cover: Reports repositories
 
