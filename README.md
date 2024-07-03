@@ -7,12 +7,12 @@ The [Global Coral Reef Monitoring Network](https://gcrmn.net/) (GCRMN)​ is an 
 * Benthic cover synthetic dataset ([gcrmndb_benthos](https://github.com/GCRMN/gcrmndb_benthos))
 * Fish abundance and biomass synthetic dataset (gcrmndb_fish)
 
-### :notebook_with_decorative_cover: Reports repositories
+### :notebook_with_decorative_cover: Report repositories
 
 * Status and Trends of Coral Reefs of the Pacific: 1980-2023 (pacific_2023)
-* Status and Trends of Caribbean Coral Reefs: 1970-2024 (caribbean_2024)
-* Status of Coral Reefs of the World: 2020 (global_2024)
+* Status and Trends of Caribbean Coral Reefs: 1970-2024 ([caribbean_2024](https://github.com/GCRMN/caribbean_2024))
+* Status of Coral Reefs of the World: 2020 ([global_2024](https://github.com/GCRMN/global_2024))
 
 ### :memo: Other repositories
 
-* GCRMN regions and subregions (gcrmn_regions)
+* GCRMN regions and subregions ([gcrmn_regions](https://github.com/GCRMN/gcrmn_regions))
