@@ -10,7 +10,7 @@ The [Global Coral Reef Monitoring Network](https://gcrmn.net/) (GCRMN)​ is an 
 ### :notebook_with_decorative_cover: Report repositories
 
 * Status and Trends of Coral Reefs of the Pacific: 1980-2023 ([pacific_2023](https://github.com/GCRMN/pacific_2023))
-* Status and Trends of Caribbean Coral Reefs: 1970-2024 ([caribbean_2024](https://github.com/GCRMN/caribbean_2024))
+* Status and Trends of Caribbean Coral Reefs: 1980-2024 ([caribbean_2024](https://github.com/GCRMN/caribbean_2024))
 * Status of Coral Reefs of the World: 2025 ([global_2024](https://github.com/GCRMN/global_2024))
 
 ### :memo: Other repositories
